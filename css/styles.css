@@ -109,8 +109,8 @@ body {
 .our-team {
   background-color: var(--gray-background-color);
 }
-.our-team-list{
-    list-style-type: none;
+.our-team-list {
+  list-style-type: none;
 }
 .our-team-title {
   font-weight: 500;
